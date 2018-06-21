@@ -12,7 +12,7 @@
     "test": "BABEL_DISABLE_CACHE=1 NODE_ENV=jest jest --no-cache"
   },
   "dependencies": {
-    "immutable": "^3.8.1",
+    "immutable": "^3.8.2",
     "koa": "^2.0.1",
     "koa-router": "^7.0.1",
     "koa-views": "^5.2.1",
