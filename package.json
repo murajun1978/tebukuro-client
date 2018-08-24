@@ -27,7 +27,7 @@
     "redux-auth": "^0.0.5-beta5",
     "redux-promise": "^0.5.3",
     "redux-thunk": "^2.2.0",
-    "superagent": "^3.5.0"
+    "superagent": "^3.8.3"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
